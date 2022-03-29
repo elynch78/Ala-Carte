@@ -10,7 +10,7 @@
 
 ### Description & Code
 
-
+We learned how to use classes to transfer info between modules without having to repeat yourself all the time. It makes things more efficient and easier to read. 
 
 ```python
 import time
