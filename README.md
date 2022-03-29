@@ -79,16 +79,16 @@ class LED:
 ```
 
 ### Evidence
-[]()
+
 
 ### Images 
 
-<>
+
 
 
 ### Reflection
 
-
+This assignment was confusing but interesting. Making an led fade doesn't seem that hard, but adding classes and all that stuff really makes you think. Using the internet and help from my peers we got it done though. I definitely did get confused many times with the code and understanding what I had to do moving forward with it. The wiring was pretty straight forward, except you need to make sure you identify the rgb and power ends of the led. 
 
 
 
@@ -111,7 +111,7 @@ class LED:
 
 ### Images 
 
-<>
+<img src="https://github.com/aniyahmoore28/Ala-Carte/blob/main/images/fed%20LED%20Gif.gif" width="250" />
 
 
 ### Reflection
