@@ -78,13 +78,9 @@ class LED:
 
 ```
 
-### Evidence
-
-
 ### Images 
 
-
-
+<img src="https://github.com/aniyahmoore28/Ala-Carte/blob/main/images/fed%20LED%20Gif.gif" width="250" />
 
 ### Reflection
 
@@ -111,7 +107,6 @@ This assignment was confusing but interesting. Making an led fade doesn't seem t
 
 ### Images 
 
-<img src="https://github.com/aniyahmoore28/Ala-Carte/blob/main/images/fed%20LED%20Gif.gif" width="250" />
 
 
 ### Reflection
